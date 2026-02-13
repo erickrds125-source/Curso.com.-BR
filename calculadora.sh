@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Para ativar o script é necessário o terminal linux, localize o arquivo "calculadora.sh" e verifique se é execultavel, para exelcutar digite o sequinte comando "./calculadora.sh"
+
 echo "Execultando calculadora"
 
 python3 -c "$(cat << 'EOF'
